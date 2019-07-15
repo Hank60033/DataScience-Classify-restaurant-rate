@@ -1,1 +1,4 @@
 # DataScience-Classify-restaurant-rate
+## Introduction
+In our daily life, people often use mobile applications to view a restaurant's rating and decide which restaurant to eat. Therefore, figuring out which variables have a greater impact on restaurant rating and find out the best classified method can help us a lot.
+In this project, We aimed to do classification of the restaurant rating by types, in this case we classified these restaurant rating into two types which are good one and bad one. In our project, we use four classification models: K Nearest Neighbor, Linear Discriminant Analysis Logistic Regression and Naive Bayes to solve classification problems, such as, what variables affected the classification of Restaurant Rating significantly, to predict an observation belongs to and to solve what is the best model of analyzing the restaurant rating classification, to find what is the correlation of these variables. 
